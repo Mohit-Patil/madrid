@@ -9,4 +9,4 @@ int main()
 		cout<<"Number is Even";
 	else
 		cout<<"Number is odd";
-}
+} 
