@@ -1,1 +1,1 @@
-#Repo for the students.
+Repository for reference.
